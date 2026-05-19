@@ -1,15 +1,18 @@
-﻿# DTSC303 – Big Data & Information Retrieval
+# Student Performance Prediction & Analysis
 
-This project focuses on text processing, TF-IDF pipelines, transcription workflows, and search systems.
+Machine learning project focused on analyzing and predicting student performance.
 
 ## Features
-- Audio transcription
-- TF-IDF vectorization
-- Search functionality
-- Parquet processing
+- Exploratory Data Analysis
+- PCA
+- ROC Curves
+- Feature Importance
+- Prediction Pipeline
 
 ## Technologies
 - Python
 - pandas
-- PySpark
-- TF-IDF
+- scikit-learn
+- matplotlib
+- seaborn
+"@ | Out-File -Encoding utf8 "C:\Users\manav\github-projects\finalproject\README.md"
